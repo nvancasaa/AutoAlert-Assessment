@@ -1,0 +1,88 @@
+﻿{
+    "Customers": [
+        {
+            "FirstName": "Melvin",
+            "LastName": "Lloyd",
+            "Vehicle": {
+                "Make": "Honda",
+                "Model": "Accord",
+                "Year": 2015,
+                "Trim": "LX"
+            },
+            "Payment": {
+                "Amount": 325.0,
+                "Term": 60
+            }
+        },
+        {
+            "FirstName": "Lindsay",
+            "LastName": "Baldwin",
+            "Vehicle": {
+                "Make": "Honda",
+                "Model": "Civic",
+                "Year": 2016,
+                "Trim":  "LX"
+            },
+            "Payment": {
+                "Amount": 363.0,
+                "Term": 60 
+            }
+        },
+        {
+            "FirstName": "Vicki",
+            "LastName": "Morton",
+            "Vehicle": {
+                "Make": "Honda",
+                "Model": "Accord",
+                "Year": 2016,
+                "Trim": "EX"
+            },
+            "Payment": {
+                "Amount": 484.0,
+                "Term": 48 
+            }
+        },
+        {
+            "FirstName": "Kathleen",
+            "LastName": "Brooks",
+            "Vehicle": {
+                "Make": "Honda",
+                "Model": "Fit",
+                "Year": 2013,
+                "Trim":  "Sport"
+            },
+            "Payment": {
+                "Amount": 373.0,
+                "Term": 48 
+            }
+        },
+        {
+            "FirstName": "Lee",
+            "LastName": "Garza",
+            "Vehicle": {
+                "Make": "Honda",
+                "Model": "Accord",
+                "Year": 2015,
+                "Trim":  "EX"
+            },
+            "Payment": {
+                "Amount": 289.0,
+                "Term": 72 
+            }
+        },
+        {
+            "FirstName": "Dale",
+            "LastName": "Mcdonald",
+            "Vehicle": {
+                "Make": "Honda",
+                "Model": "Civic",
+                "Year": 2016,
+                "Trim":  "Si"
+            },
+            "Payment": {
+                "Amount": 423.0,
+                "Term": 60 
+            }
+        }
+    ]
+}
